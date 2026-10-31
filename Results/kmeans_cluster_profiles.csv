@@ -1,0 +1,4 @@
+Cluster,Size,Temperature(°C),Humidity(%),Wind speed (m/s),Solar Radiation (MJ/m2),Hour_sin,Hour_cos,Rented Bike Count
+0,3688,14.51,74.59,1.18,0.08,0.32,0.36,552.36
+1,2194,-1.63,43.74,2.1,0.32,-0.08,-0.02,294.71
+2,2583,22.53,46.91,2.18,1.48,-0.4,-0.5,1350.6
